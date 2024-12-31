@@ -2189,10 +2189,29 @@ html {
   text-rendering: optimizeLegibility;
 }
 
-@media screen and (min-width: 40em) {
-  /* 640px */
+@media screen and (max-width: 39.99em) {
   html {
-    font-size: 55.5%;
+    font-size: 157.5%; /* 3 veces más grande que 52.5% */
+  }
+
+  h1.large {
+    font-size: 53.4rem; /* Aumentamos el tamaño de los encabezados grandes (3 veces más grande que 17.8rem) */
+  }
+
+  /* Otros elementos (como h2, p, etc.) también se pueden ajustar aquí */
+  h2 {
+    font-size: 4rem; /* Ajusta el tamaño de h2 */
+  }
+
+  p {
+    font-size: 2rem; /* Ajusta el tamaño de los párrafos */
+  }
+}
+
+/* Ajustes para pantallas medianas (640px o más) */
+@media screen and (min-width: 40em) {
+  html {
+    font-size: 55.5%; /* Tamaño base para pantallas medianas */
   }
 
   h1.large {
@@ -2200,10 +2219,11 @@ html {
     font-size: 17.8rem;
   }
 }
+
+/* Ajustes para pantallas grandes (920px o más) */
 @media screen and (min-width: 57.5em) {
-  /* 920px */
   html {
-    font-size: 62.5%;
+    font-size: 62.5%; /* Tamaño base para pantallas grandes */
   }
 
   h1.large {
