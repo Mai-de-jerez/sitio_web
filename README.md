@@ -52,7 +52,7 @@ Esta organización permite un desarrollo modular y fácil mantenimiento del proy
 1. **Encabezado**: Contiene el título de la página y un menú de navegación para facilitar el acceso a las distintas secciones.
 2. **Sobre nosotros**: Breve descripción del parque, resaltando su historia y su esctructura.
 3. **Lugares del parque**: Sección que muestra las zonas del oarque de interés.
-4. **Galería de Imágenes**: Muestra fotografías de las esculturas del parque, así como de los lugares emblemáticos deñ mismo.
+4. **Galería de Imágenes**: Muestra fotografías de las esculturas del parque, así como de los lugares emblemáticos deL mismo.
 5. **Información de Contacto**: Detalles sobre cómo llegar al parque, enlaces de redes sociales y recomendaciones para los visitantes.
 
 ## Instalación y Uso
@@ -64,4 +64,27 @@ Esta organización permite un desarrollo modular y fácil mantenimiento del proy
 
    ```bash
    git clone https://github.com/Mai-de-jerez/sitio_web.git
+
+2. **Abrir index.html en un navegador** para ver la página en funcionamiento.
+   
+3. **Personalizar:**
+- Edita index.html para modificar el contenido textual o agregar nuevas secciones. 
+- Modifica **style.css** para cambiar los estilos o ajustar los colores y tipografías. 
+- Agrega nuevas imágenes en la carpeta img y enlázalas en el archivo HTML.
+
+### Notas sobre Accesibilidad y Compatibilidad 
+
+Se han implementado prácticas de accesibilidad, como atributos **aria-label** y **alt** 
+en las imágenes, además de un alto contraste de colores para mejorar la visibilidad del 
+contenido. La página ha sido probada en los navegadores principales (Chrome, Firefox 
+y Edge) para asegurar su correcta visualización en cada uno. 
+
+### Autor 
+
+Este proyecto ha sido desarrollado para familiarizarse con la creación de una página 
+web básica y su personalización mediante HTML y CSS, siguiendo buenas prácticas de 
+accesibilidad y compatibilidad. 
+Este README proporciona una descripción clara del proyecto y sirve como una 
+referencia para cualquier usuario o desarrollador que desee entender o modificar la 
+página sobre el parque Juan Carlos I.
 
