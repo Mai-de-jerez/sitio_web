@@ -57,6 +57,11 @@ Esta organización permite un desarrollo modular y fácil mantenimiento del proy
 
 ## Instalación y Uso
 
-1. Descargar o clonar el repositorio.
+### Clonar el Repositorio
+
+1. **Clonar el repositorio**: 
+   Si aún no tienes el repositorio en tu máquina local, clónalo usando Git con el siguiente comando:
+
    ```bash
    git clone https://github.com/Mai-de-jerez/sitio_web.git
+
