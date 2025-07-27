@@ -71,7 +71,7 @@ y Edge) para asegurar su correcta visualización en cada uno.
 
 ### Autor 
 
-Este proyecto ha sido desarrollado para familiarizarse con la creación de una página 
+Este proyecto ha sido desarrollado por **María del Carmen Martín Rodríguez**para familiarizarse con la creación de una página 
 web básica y su personalización mediante HTML y CSS, siguiendo buenas prácticas de 
 accesibilidad y compatibilidad. 
 Este README proporciona una descripción clara del proyecto y sirve como una 
