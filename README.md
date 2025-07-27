@@ -1,15 +1,15 @@
 # Página Web del Parque Juan Carlos I
 
-Esta es una página web diseñada para brindar información sobre el **Parque Juan Carlos I**, destacando sus rutas de senderismo, monumentos, actividades y atractivos principales. La página permite a los visitantes obtener una experiencia virtual del parque, además de ofrecer datos útiles sobre su estructuración y cómo disfrutarlo.
+Esta es una página web diseñada con una plantilla HTML5 para brindar información sobre el **Parque Juan Carlos I**, destacando sus rutas de senderismo, monumentos, actividades y atractivos principales. La página permite a los visitantes obtener una experiencia virtual del parque, además de ofrecer datos útiles sobre su estructuración y cómo disfrutarlo. Es un proyecto de fronted luego el sitio es estático, cualquier acción dinámica no funcionará.
 
 ## Estructura del Proyecto
 
-- **index.html**: Archivo principal que contiene la estructura HTML de la página. Aquí se encuentran las secciones principales como la portada de la página, un video del parque, un atajo a Google maps, información sobre mí, una galería de las esculturas y las actividades deportivas que puedes hacer en el parque.
+- **index.html**: Archivo principal que contiene la estructura HTML de la página. Aquí se encuentran las secciones principales como la portada de la página, un video del parque, un atajo a Google maps, información sobre el parque ,una galería de las esculturas y las actividades deportivas que puedes hacer en él.
 
 - **archivos HTML adicionales**:
   - **about.html**: Información sobre los encargados del parque.
   - **single.html**: contiene lugares emblemáticos del parque.
-  - **contact.html**: para contactar con el parque.
+  - **contact.html**: para contactar con los encargados de gestionar el parque.
   - **blog.html**: una galeria con las esculturas del parque más un video.
     
 
