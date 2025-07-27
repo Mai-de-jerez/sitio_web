@@ -43,7 +43,7 @@ Esta organización permite un desarrollo modular y fácil mantenimiento del proy
 2. **Sobre nosotros**: Breve descripción del parque, resaltando su historia y su esctructura.
 3. **Lugares del parque**: Sección que muestra las zonas del oarque de interés.
 4. **Galería de Imágenes**: Muestra fotografías de las esculturas del parque, así como de los lugares emblemáticos deL mismo.
-5. **Información de Contacto**: Detalles sobre cómo llegar al parque, enlaces de redes sociales y recomendaciones para los visitantes.
+5. **Información de Contacto**: formulario de contacto para contactar con el parque.
 
 ## Instalación y Uso
 
